@@ -1,3 +1,2 @@
 # QuorX-Refactor
-(KEIN FIRTZ THEME!) Wordpress Design
-
+(KEIN FIRTZ THEME!)
